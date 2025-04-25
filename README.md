@@ -9,8 +9,4 @@ create file ending with .drawio, .dio, .drawio.svg
 
 >Like this ```![](./demo.drawio.svg)```
 
-<<<<<<< HEAD
-![](./demo.drawio.svg)
-=======
 ![](./cytoplasmic_diagram.drawio.svg)
->>>>>>> 8594280 (adding new diagram realted to my project)
